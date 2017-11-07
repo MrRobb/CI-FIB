@@ -2,7 +2,6 @@
 [![HitCount](http://hits.dwyl.io/mrrobb/CI-FIB.svg)]()
 [![Github Stars](http://githubbadges.com/star.svg?user=mrrobb&repo=SO-FIB&style=flat&color=fff&background=000)](https://github.com/MrRobb/CI-FIB)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-[![GitHub forks](https://img.shields.io/github/forks/mrrobb/CI-FIB.svg?style=social&label=Fork)](https://github.com/MrRobb/CI-FIB)
 
 ### Pull requests are always welcome
 
