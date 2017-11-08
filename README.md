@@ -3,6 +3,8 @@
 [![Github Stars](http://githubbadges.com/star.svg?user=mrrobb&repo=SO-FIB&style=flat&color=fff&background=000)](https://github.com/MrRobb/CI-FIB)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
+> Si no tienes Windows o Proteus, puedes **cambiar la extensión del archivo proteus a .zip** y extraerlo como si fuera un comprimido, así podrás ver los archivos main.c, config.h ... (Están en la carpeta FIRMWARE)
+
 ### Pull requests are always welcome
 
 We are always thrilled to receive pull requests, and do our best to
